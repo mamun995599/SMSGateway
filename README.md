@@ -1,4 +1,4 @@
-# SMS Gateway by using kotline
+# SMS Gateway by using kotlin
 
 > **Date:** 1/10/2026, 10:44:54 PM  
 > **Chat ID:** 019ba8cb-c093-7651-b81c-e34a6735c922  
