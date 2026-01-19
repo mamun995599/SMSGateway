@@ -1,4 +1,4 @@
-# create an android app named  SMS Gateway by using kotline  Gui have a toggole onoff switch button.
+# SMS Gateway by using kotline
 
 > **Date:** 1/10/2026, 10:44:54 PM  
 > **Chat ID:** 019ba8cb-c093-7651-b81c-e34a6735c922  
