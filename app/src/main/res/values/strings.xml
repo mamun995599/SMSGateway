@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SMS Gateway</string>
+    <string name="server_status">Server Status</string>
+    <string name="websocket_port">WebSocket Port</string>
+    <string name="http_port">HTTP Port</string>
+    <string name="default_ws_port">8080</string>
+    <string name="default_http_port">8070</string>
+    <string name="connected_devices">Connected Devices (WebSocket)</string>
+    <string name="http_console">HTTP Console Log</string>
+    <string name="server_running">Server Running</string>
+    <string name="server_stopped">Server Stopped</string>
+    <string name="no_devices_connected">No devices connected</string>
+    <string name="no_logs">No logs yet</string>
+    <string name="clear_logs">Clear Logs</string>
+    <string name="ip_addresses">Server IP Addresses</string>
+    <string name="notification_channel_name">SMS Gateway Service</string>
+    <string name="notification_channel_desc">Keeps SMS Gateway running in background</string>
+</resources>
